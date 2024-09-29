@@ -90,7 +90,7 @@ workbench.activity.placeholderViewlets: "[{\"id\":\"workbench.view.explorer\",\
   Changes\",\"isBuiltin\":true,\"views\":[]}]"
 workbench.activityBar.location: default
 workbench.auxiliaryBar.size: "256"
-workbench.editor.languageDetectionOpenedLanguages.global: '[["python",true],["markdown",true],["dockerfile",true],["properties",true],["javascript",true],["json",true],["ignore",true],["shellscript",true],["plaintext",true],["jsonc",true],["COBOL",true],["yaml",true]]'
+workbench.editor.languageDetectionOpenedLanguages.global: '[["python",true],["markdown",true],["dockerfile",true],["properties",true],["javascript",true],["json",true],["ignore",true],["shellscript",true],["plaintext",true],["jsonc",true],["yaml",true],["COBOL",true]]'
 workbench.explorer.views.state.hidden: '[{"id":"outline","isHidden":false},{"id":"timeline","isHidden":false},{"id":"workbench.explorer.openEditorsView","isHidden":true},{"id":"workbench.explorer.emptyView","isHidden":false},{"id":"workbench.explorer.fileView","isHidden":false},{"id":"npm","isHidden":true},{"id":"flat-source-view","isHidden":false},{"id":"help-and-feedback-view","isHidden":false},{"id":"dockerContainers","isHidden":false},{"id":"dockerImages","isHidden":false},{"id":"dockerRegistries","isHidden":false},{"id":"dockerNetworks","isHidden":false},{"id":"dockerVolumes","isHidden":false},{"id":"vscode-docker.views.dockerContexts","isHidden":false},{"id":"vscode-docker.views.help","isHidden":false},{"id":"makefile.outline","isHidden":false},{"id":"openapiOutline","isHidden":false},{"id":"openapiNotSelectedOutline","isHidden":false}]'
 workbench.grid.size: '{"height":768,"width":1024}'
 workbench.panel.alignment: center
