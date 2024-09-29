@@ -1,0 +1,24 @@
+{
+    "editor.fontSize": 20,
+    "liveServer.settings.wait": 0,
+    "liveServer.settings.donotVerifyTags": true,
+    "coboleditor.intellisense_style": "uppercase",
+    "editor.minimap.enabled": false,
+    "projectManager.git.baseFolders": [
+        "/home/beni/Documents/Projects"
+    ],
+    "workbench.sideBar.location": "right",
+    "vim.useSystemClipboard": true,
+    "extensions.ignoreRecommendations": true,
+    "security.workspace.trust.untrustedFiles": "open",
+    "redhat.telemetry.enabled": false,
+    "workbench.colorTheme": "Catppuccin Mocha",
+    "workbench.iconTheme": "catppuccin-mocha",
+    "coboleditor.enable_codelens_copy_replacing": true,
+    "coboleditor.parse_copybooks_for_references": true,
+    "coboleditor.copybookdirs": [
+        "$COBCPY",
+        "$COPYPATH",
+        "src/copybooks"
+    ]
+}
