@@ -20,5 +20,13 @@
         "$COBCPY",
         "$COPYPATH",
         "src/copybooks"
-    ]
+    ],
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "diffEditor.ignoreTrimWhitespace": false,
+    "[vue]": {
+        "editor.defaultFormatter": "Vue.volar"
+    },
+    "continue.enableTabAutocomplete": false
 }
